@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1,
+    "picture": "https://i.postimg.cc/N0zkvSMy/Health.png",
+    "title": "Clean Water for Children",
+    "category": "Health",
+    "category_bg": "rgb(191, 219, 254)",
+    "card_bg": "rgb(219, 234, 254)",
+    "text_button_bg": "rgb(37, 99, 235)",
+    "description": "Provide clean and safe drinking water to children in need. Your donation will help ensure a healthier future for vulnerable children around the world. Together, we can make a real difference and save lives.",
+    "price": 300
+  },
+  {
+    "id": 2,
+    "picture": "https://i.postimg.cc/nhT10CfG/Education.png",
+    "title": "Good Education",
+    "category": "Education",
+    "category_bg": "rgb(254, 205, 211)",
+    "card_bg": "rgb(255, 228, 230)",
+    "text_button_bg": "rgb(225, 29, 72)",
+    "description": "Support educational initiatives to empower children and communities. Education is the key to unlocking opportunities and creating a brighter future for all. Your contribution will help shape the leaders of tomorrow.",
+    "price": 290
+  },
+  {
+    "id": 3,
+    "picture": "https://i.postimg.cc/wBvQPg68/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg": "rgb(187, 247, 208)",
+    "card_bg": "rgb(220, 252, 231)",
+    "text_button_bg": "rgb(22, 163, 74)",
+    "description": "Donate gently used clothing to help those in need stay warm and comfortable. Your contribution will make a difference in the lives of individuals and families facing hardship. Let's come together to spread warmth and kindness.",
+    "price": 320
+  },
+  {
+    "id": 4,
+    "picture": "https://i.postimg.cc/dtPn0b9r/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "category_bg": "rgb(254, 215, 170)",
+    "card_bg": "rgb(255, 237, 213)",
+    "text_button_bg": "rgb(234, 88, 12)",
+    "description": "Provide nutritious meals to families facing food insecurity. Access to healthy food is essential for overall well-being and a thriving community. Your support will nourish bodies and uplift spirits.",
+    "price": 280
+  },
+  {
+    "id": 5,
+    "picture": "https://i.postimg.cc/wBvQPg68/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg": "rgb(187, 247, 208)",
+    "card_bg": "rgb(220, 252, 231)",
+    "text_button_bg": "rgb(22, 163, 74)",
+    "description": "Help clothe individuals and families in need with your gently used clothing donations. Your kindness will bring warmth and comfort to those who need it most. Let's spread love and warmth one piece of clothing at a time.",
+    "price": 300
+  },
+ 
+  {
+    "id": 6,
+    "picture": "https://i.postimg.cc/N0zkvSMy/Health.png",
+    "title": "Clean Water for Children",
+    "category": "Health",
+    "category_bg": "rgb(191, 219, 254)",
+    "card_bg": "rgb(219, 234, 254)",
+    "text_button_bg": "rgb(37, 99, 235)",
+    "description": "Ensure every child has access to clean drinking water for a healthier life. Clean water is a basic human right that should be available to all. Your generosity will create ripples of positive change in communities worldwide.",
+    "price": 270
+  },
+  {
+    "id": 7,
+    "picture": "https://i.postimg.cc/dtPn0b9r/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "category_bg": "rgb(254, 215, 170)",
+    "card_bg": "rgb(255, 237, 213)",
+    "text_button_bg": "rgb(234, 88, 12)",
+    "description": "Combat hunger by providing access to healthy and nourishing food options. Together, we can ensure no one goes to bed hungry. Your donation will bring hope and sustenance to those in need.",
+    "price": 330
+  },
+  {
+    "id": 8,
+    "picture": "https://i.postimg.cc/nhT10CfG/Education.png",
+    "title": "Good Education",
+    "category": "Education",
+    "category_bg": "rgb(254, 205, 211)",
+    "card_bg": "rgb(255, 228, 230)",
+    "text_button_bg": "rgb(225, 29, 72)",
+    "description": "Empower children through quality education for a brighter future. Education opens doors to endless possibilities and transforms lives. Your contribution can break the cycle of poverty and change lives forever.",
+    "price": 300
+  },
+  
+  {
+    "id": 9,
+    "picture": "https://i.postimg.cc/dtPn0b9r/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "category_bg": "rgb(254, 215, 170)",
+    "card_bg": "rgb(255, 237, 213)",
+    "text_button_bg": "rgb(234, 88, 12)",
+    "description": "Fight hunger and malnutrition by providing nutritious food to those in need. Together, we can build healthier communities and a brighter future for all. Your contribution will make a lasting impact on families in need.",
+    "price": 300
+  },
+  {
+    "id": 10,
+    "picture": "https://i.postimg.cc/nhT10CfG/Education.png",
+    "title": "Good Education",
+    "category": "Education",
+    "category_bg": "rgb(254, 205, 211)",
+    "card_bg": "rgb(255, 228, 230)",
+    "text_button_bg": "rgb(225, 29, 72)",
+    "description": "Support educational programs to create opportunities for children worldwide. Every child deserves access to quality education to fulfill their potential. Your support can break down barriers and build brighter futures.",
+    "price": 280
+  },
+  {
+    "id": 11,
+    "picture": "https://i.postimg.cc/wBvQPg68/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg": "rgb(187, 247, 208)",
+    "card_bg": "rgb(220, 252, 231)",
+    "text_button_bg": "rgb(22, 163, 74)",
+    "description": "Donate your gently used clothing to support individuals and families in need. Your kindness will bring warmth and comfort to those who need it most. Let's join hands to make a positive impact in our communities.",
+    "price": 330
+  },
+  {
+    "id": 12,
+    "picture": "https://i.postimg.cc/N0zkvSMy/Health.png",
+    "title": "Clean Water for Children",
+    "category": "Health",
+    "category_bg": "rgb(191, 219, 254)",
+    "card_bg": "rgb(219, 234, 254)",
+    "text_button_bg": "rgb(37, 99, 235)",
+    "description": "Contribute to clean water projects to improve the health and well-being of children. Your donation will make a lasting impact on communities in need. Together, we can create a brighter future for generations to come.",
+    "price": 290
+  }
+]
